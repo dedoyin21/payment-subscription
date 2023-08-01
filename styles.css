@@ -1,0 +1,84 @@
+.background{
+    color: white;
+}
+
+.join{
+    margin-left: 25rem;
+    margin-top: 40px;
+    padding-top: 30px;
+}
+
+h1{
+    color:  rgba(4, 150, 150, 0.747);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: rgba(170, 252, 48, 0.925);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: rgb(184, 183, 183);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+h4{
+    margin-bottom: 0px;
+    margin-top: 10px; 
+}
+
+.monthly{
+    background-color: rgba(4, 150, 150, 0.747);
+    color: white;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.why{
+    background-color:rgba(7, 134, 134, 0.541);
+    color: white;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color:rgba(170, 252, 48, 0.925);
+    border-radius: 5px;
+    height: 40px;
+    width: 250px;
+    border:none;
+}
+
+.border-box{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 25rem;
+    height: 230px;
+}
+
+p{
+    font-size:large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+span{
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bottom-flex-box{
+    background-color: rgb(6, 6, 56);
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+}
